@@ -3,6 +3,8 @@
 repository(Repo)
 Branch
 confict
+local
+remote
 
 # Commands
 
@@ -18,3 +20,4 @@ confict
 - git check out -b {branch name}
 - git merch {branch name}
 - git branch -d {branch name}
+- git push
