@@ -1,6 +1,7 @@
 # Terms
 
 repository(Repo)
+Branch
 
 # Commands
 
@@ -9,3 +10,8 @@ repository(Repo)
 - git add or git add.
 - git reset
 - git commit
+- git log
+- git log --oneline
+- git checkout
+- git checkout {banch name}
+- git check out -b {branch name}
