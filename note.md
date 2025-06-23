@@ -2,6 +2,7 @@
 
 repository(Repo)
 Branch
+confict
 
 # Commands
 
